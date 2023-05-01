@@ -1,4 +1,4 @@
-def divisable_form(): # for comparison
+def modulate_form():
     print('fizzbuzz with division')
     for i in range(1,101):
         output = ""
